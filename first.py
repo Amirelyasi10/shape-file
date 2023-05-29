@@ -1,3 +1,4 @@
+print("#-------------- By Amir -----------#")
 from colorama import Fore
 
 print(Fore.RED, "Shape", Fore.RESET)
