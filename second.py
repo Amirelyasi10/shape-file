@@ -1,3 +1,7 @@
+from pyfiglet import figlet_format
+
+print(figlet_format("* * *"))
+
 number = 5
 start = 1
 
