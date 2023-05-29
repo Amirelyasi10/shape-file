@@ -1,4 +1,5 @@
-print("test project for conflic GitHub")
+print("#-------------- By Amir -----------#")
+
 from colorama import Fore
 
 print(Fore.RED, "Shape", Fore.RESET)
